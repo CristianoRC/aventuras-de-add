@@ -1,0 +1,58 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.313 seconds
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Usuario\Documents\As aventuras de Add\versão_beta 0.1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.921167 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.049459 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 168.
+Total: 0.220241 ms (FindLiveObjects: 0.016678 ms CreateObjectMapping: 0.018389 ms MarkObjects: 0.164646 ms  DeleteObjects: 0.011974 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402422 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 722.
+Total: 0.245045 ms (FindLiveObjects: 0.037633 ms CreateObjectMapping: 0.023948 ms MarkObjects: 0.178331 ms  DeleteObjects: 0.004276 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.359224 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 829.
+Total: 2.411542 ms (FindLiveObjects: 0.060299 ms CreateObjectMapping: 0.040627 ms MarkObjects: 0.253599 ms  DeleteObjects: 2.056162 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.096505 ms
+
+Unloading 120 unused Assets to reduce memory usage. Loaded Objects now: 171.
+Total: 4.061433 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.037205 ms MarkObjects: 0.149679 ms  DeleteObjects: 3.842902 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.392586 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 176.
+Total: 0.202708 ms (FindLiveObjects: 0.017533 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.162508 ms  DeleteObjects: 0.008980 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2210 -> priority: 1 
